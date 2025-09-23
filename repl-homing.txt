@@ -1,0 +1,7 @@
+speed 1 500
+send ImM-0
+run
+# wait for ^ prompt (ready)
+move 1 200
+run
+send IA1M-0
